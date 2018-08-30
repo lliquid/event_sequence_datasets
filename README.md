@@ -8,6 +8,12 @@ https://mimic.physionet.org/
 PPMI
 https://www.ppmi-info.org/access-data-specimens/download-data/
 
+#### E-Commerce
+
+RecSys Challenge 2015
+http://2015.recsyschallenge.com/challenge.html
+
+
 #### Machine/System Log
 
 LogHub

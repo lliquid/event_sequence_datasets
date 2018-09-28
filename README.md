@@ -8,6 +8,9 @@ https://mimic.physionet.org/
 PPMI
 https://www.ppmi-info.org/access-data-specimens/download-data/
 
+Diabetes
+https://archive.ics.uci.edu/ml/datasets/diabetes
+
 #### E-Commerce
 
 RecSys Challenge 2015

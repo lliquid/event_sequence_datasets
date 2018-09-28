@@ -11,6 +11,9 @@ https://www.ppmi-info.org/access-data-specimens/download-data/
 Diabetes
 https://archive.ics.uci.edu/ml/datasets/diabetes
 
+CMS (synthetic data)
+https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/OASIS/DataSet.html
+
 #### E-Commerce
 
 RecSys Challenge 2015
